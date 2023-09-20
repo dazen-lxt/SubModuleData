@@ -1,5 +1,5 @@
 import Foundation
 
 public class DataInfo {
-    public static var version = "Data_101"
+    public static var version = "Data_101 Rama EPica"
 }
